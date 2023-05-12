@@ -6,7 +6,7 @@ conda env create -f environment.yml
 
 Start the notebook:
 ```
-jupyter-lab
+jupyter-lab overview.ipynb
 ```
 
 # Monte Carlo 
