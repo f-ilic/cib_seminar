@@ -38,3 +38,5 @@ This is a presentation about Monte Carlo Methods that tries to give interactive 
 * Inversion / Box Muller: https://www.youtube.com/watch?v=Vd21DUyVccA&ab_channel=Anthroporraistes
 * Monte Carlo with Math: https://www.youtube.com/watch?v=C3p2wI4RAi8&ab_channel=MutualInformation
 * Deriving the Normal Distribution Probability Density Function Formula: https://www.youtube.com/watch?v=N-bI-Dsm-rw&ab_channel=MolloyMaths
+* MCMC slides (nice overview) http://www.cs.cmu.edu/~aarti/Class/10701_Spring14/slides/MCMC.pdf
+* German MCMC slides (mathy) https://user.math.uni-bremen.de/dickhaus/downloads/Methoden-WS1213/mcmc.pdf
