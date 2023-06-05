@@ -10,19 +10,9 @@ jupyter-lab overview.ipynb
 ```
 # What is this?
 
-This is a presentation about Monte Carlo Methods that tries to give interactive examples and an intuition about topics such as:
+Intuition and overview of:
 * Sampling Methods (`overview.ipynb`)
-    * Inversion Sampling
-    * Rejection Sampling
-    * Importance Sampling
-
-* MCMC
-    * ??
-    * ??
-
-* ????
-    * ??
-    * ??
+* Markov Chain Monte Carlo (`classic_mcmc.ipynb`)
 
 
 ## Links Provided by Rober Pehartz
