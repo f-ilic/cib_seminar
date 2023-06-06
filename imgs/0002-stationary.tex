@@ -1,0 +1,19 @@
+\input{includes.tex}
+
+\begin{document}
+\begin{tikzpicture}
+
+    \node (dots2) {$\cdots$};
+
+    \node[observed rv, right=of dots2] (XT-1) {$X_{T-1}$};
+    \node[unobserved rv, right=of XT-1] (XT) {$X_{T}$};
+
+    \draw[arrow, ->] (dots2) to (XT-1);
+    \draw[arrow, ->] (XT-1) to (XT);
+
+
+    \node[formula, below=of XT-1] (formula1) {$T \to \infty \implies X_T \sim \pi$, where $\pi$ denotes the limiting distribution};
+
+    \node[formula, below=0.25cm of formula1] (formula2) {Idea of MCMC: $\pi \simeq f_{X}$};
+\end{tikzpicture}
+\end{document}

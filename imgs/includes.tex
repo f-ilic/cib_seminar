@@ -1,0 +1,49 @@
+\documentclass[tikz, crop, border=5pt]{standalone}
+
+\usepackage{xcolor}
+\usepackage{mathtools}
+
+\DeclareMathOperator{\uniform}{\mathcal{U}}
+
+\usetikzlibrary{
+    positioning,
+    arrows.meta
+}
+
+\tikzset{%
+    random variable/.style={%
+        circle,
+        draw,
+        inner sep = 0pt,
+        outer sep = 0pt,
+        minimum width=1cm
+    },
+    state/.style={%
+        circle,
+        draw,
+        inner sep = 0pt,
+        outer sep = 0pt,
+        minimum width=1cm,
+        fill=black!20
+    },
+    observed rv/.style={%
+        random variable,
+        fill=blue!20,
+    },
+    unobserved rv/.style={%
+        random variable,
+        fill=white,
+    },
+    arrow/.style={%
+        >={Stealth[round]},
+    },
+    formula/.style={%
+        rectangle,
+        draw=gray,
+        rounded corners=2pt,
+        inner sep = 2pt,
+        outer sep = 0pt,
+        minimum width=12cm,
+        minimum height=1cm,
+    },
+}
