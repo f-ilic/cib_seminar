@@ -11,7 +11,7 @@ jupyter-lab overview.ipynb
 # What is this?
 
 Intuition and overview of:
-* Sampling Methods (`overview.ipynb`)
+* Sampling Method Tricks (`overview.ipynb`)
 * Markov Chain Monte Carlo (`classic_mcmc.ipynb`)
 
 

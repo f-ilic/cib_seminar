@@ -23,10 +23,11 @@ def polar_to_cartesian(theta, r):
 
 
 def polar_uniform_bivariate():
-    num_samples = 100000
+    num_samples = 100
 
     thetas = np.random.uniform(low=0, high=360, size=(num_samples, 1))
     radii = np.ones((num_samples, 1))
+    radii = np.random.uniform(low=0, high=360, size=(num_samples, 1))
     X, Y = polar_to_cartesian(thetas, radii)
     sns.jointplot(x=X[:, 0], y=Y[:, 0], marginal_kws=dict(bins=30, fill=True))
 
