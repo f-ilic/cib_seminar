@@ -15,7 +15,7 @@ Intuition and overview of:
 * Markov Chain Monte Carlo (`classic_mcmc.ipynb`)
 
 
-## Links Provided by Rober Pehartz
+## Links Provided by Robert Pehartz
 * Intro by Ian Murray https://www.youtube.com/watch?v=Em6mQQy4wYA
 * Another intro by Ian Murray https://www.youtube.com/watch?v=_v4Eb09qp7Q
 * Betancourt, Introduction to Hamiltonian Monte Carlo https://arxiv.org/pdf/1701.02434.pdf
@@ -30,3 +30,7 @@ Intuition and overview of:
 * Deriving the Normal Distribution Probability Density Function Formula: https://www.youtube.com/watch?v=N-bI-Dsm-rw&ab_channel=MolloyMaths
 * MCMC slides (nice overview) http://www.cs.cmu.edu/~aarti/Class/10701_Spring14/slides/MCMC.pdf
 * German MCMC slides (mathy) https://user.math.uni-bremen.de/dickhaus/downloads/Methoden-WS1213/mcmc.pdf
+* Another nice slide set on Monte Carlo + MCMC + MH algorithm:
+    * https://www.sas.upenn.edu/~jesusfv/LectureNotes_5_montecarlo.pdf
+    * https://www.sas.upenn.edu/~jesusfv/LectureNotes_6_mcmc.pdf
+    * https://www.sas.upenn.edu/~jesusfv/LectureNotes_7_MH.pdf
