@@ -15,7 +15,7 @@ Intuition and overview of:
 * Markov Chain Monte Carlo (`classic_mcmc.ipynb`)
 
 
-## Links Provided by Robert Pehartz
+## Links Provided by Robert Peharz
 * Intro by Ian Murray https://www.youtube.com/watch?v=Em6mQQy4wYA
 * Another intro by Ian Murray https://www.youtube.com/watch?v=_v4Eb09qp7Q
 * Betancourt, Introduction to Hamiltonian Monte Carlo https://arxiv.org/pdf/1701.02434.pdf
